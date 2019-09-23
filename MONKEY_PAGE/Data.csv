@@ -1,0 +1,9 @@
+﻿TC_ID,Link,Action,Description
+1,https://www.monkeyuser.com,0,Views a random comic
+2,https://www.monkeyuser.com,1,Views the latest comic
+3,https://www.monkeyuser.com,2,User can view the next comic
+4,https://www.monkeyuser.com,3,Views the history of comics
+5,https://www.monkeyuser.com,4,"Opens the comics from the following dates:  December 4, 2018"
+6,https://www.monkeyuser.com,5,"Opens the comics from the following dates:   June 19, 2018"
+7,https://www.monkeyuser.com,6,"Opens the comics from the following dates:   May 30, 2017"
+8,https://www.monkeyuser.com,7,Verify a product can be added to cart and the checkout screen works
